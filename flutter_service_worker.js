@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
-"assets/AssetManifest.bin.json": "69a99f98c8b1fb8111c5fb961769fcd8",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+const RESOURCES = {"assets/AssetManifest.bin": "99299446f8afc5b3c3a3bbf01c107fe3",
+"assets/AssetManifest.bin.json": "fb0f7d42429ee481c973095bc84ceaa4",
+"assets/FontManifest.json": "4ba6f5e43a3365ec61789aef06bb716c",
 "assets/fonts/MaterialIcons-Regular.otf": "c0ad29d56cfe3890223c02da3c6e0448",
+"assets/fonts/Nahid.ttf": "9e27ee460a9827d79551a680b7eb2794",
 "assets/NOTICES": "ad58d5cf7fffbf97c5fbf25594b3f3c5",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
@@ -25,15 +26,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "canvaskit/skwasm_heavy.wasm": "13c003d25427df35ec00897c9d7bda60",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "dd7b611dbe9f58967835557f58b02e08",
+"flutter_bootstrap.js": "55583360714414510fcccf9502fa8556",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "fb3e3547a2f1a5d73e69f6ed92f39b6d",
-"/": "fb3e3547a2f1a5d73e69f6ed92f39b6d",
+"index.html": "f6afa131b254da871fd06fbbcc066f51",
+"/": "f6afa131b254da871fd06fbbcc066f51",
 "main.dart.js": "cf945f0e6714fe9549cb9daba44e5062",
 "manifest.json": "22650da2b182c0353f0238677b478a8a",
+"telegram-web-app.js": "70dbd7ade763706614c7ee99973dcc9c",
 "version.json": "20b39d34b01de1d6b9d4105d01e38cf1"};
 // The application shell files that are downloaded before a service worker can
 // start.
