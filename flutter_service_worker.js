@@ -33,7 +33,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "99299446f8afc5b3c3a3bbf01c107fe3
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "f6afa131b254da871fd06fbbcc066f51",
 "/": "f6afa131b254da871fd06fbbcc066f51",
-"main.dart.js": "60f8d0f9aefd607880e0b384400ae89c",
+"main.dart.js": "2c82d382ff597be3421df73b11a7c729",
 "manifest.json": "22650da2b182c0353f0238677b478a8a",
 "telegram-web-app.js": "70dbd7ade763706614c7ee99973dcc9c",
 "version.json": "20b39d34b01de1d6b9d4105d01e38cf1"};
