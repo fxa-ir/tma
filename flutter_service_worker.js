@@ -10,7 +10,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6150cf856b6e17bf24d0a4d44b07c9c4
 "assets/fonts/Nahid.ttf": "9e27ee460a9827d79551a680b7eb2794",
 "assets/fonts/YekanBakh-Bold.otf": "94a1317a1bf6629537d220697d11a4f3",
 "assets/fonts/YekanBakh-Regular.ttf": "0c5382b544b01c1f7366adf30af5e2ef",
-"assets/NOTICES": "05dfd5d7c00935e5d0373eed955125ec",
+"assets/NOTICES": "e4788150c68d34f709e7184f811e1ac5",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/shaders/stretch_effect.frag": "40d68efbbf360632f614c731219e95f0",
@@ -35,7 +35,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6150cf856b6e17bf24d0a4d44b07c9c4
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "f6afa131b254da871fd06fbbcc066f51",
 "/": "f6afa131b254da871fd06fbbcc066f51",
-"main.dart.js": "3628337b4cbb857603503b4421730f90",
+"main.dart.js": "ced3333f525a2a872be70d5866f5258c",
 "manifest.json": "22650da2b182c0353f0238677b478a8a",
 "telegram-web-app.js": "70dbd7ade763706614c7ee99973dcc9c",
 "version.json": "20b39d34b01de1d6b9d4105d01e38cf1"};
