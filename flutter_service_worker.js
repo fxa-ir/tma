@@ -3,12 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "99299446f8afc5b3c3a3bbf01c107fe3",
-"assets/AssetManifest.bin.json": "fb0f7d42429ee481c973095bc84ceaa4",
-"assets/FontManifest.json": "4ba6f5e43a3365ec61789aef06bb716c",
+const RESOURCES = {"assets/AssetManifest.bin": "6150cf856b6e17bf24d0a4d44b07c9c4",
+"assets/AssetManifest.bin.json": "c088bf4304e86d37d8b940d7d1f8221f",
+"assets/FontManifest.json": "a1bf3d5a1b820882c83c0acb9c12a4cd",
 "assets/fonts/MaterialIcons-Regular.otf": "c0ad29d56cfe3890223c02da3c6e0448",
 "assets/fonts/Nahid.ttf": "9e27ee460a9827d79551a680b7eb2794",
-"assets/NOTICES": "ad58d5cf7fffbf97c5fbf25594b3f3c5",
+"assets/fonts/YekanBakh-Bold.otf": "94a1317a1bf6629537d220697d11a4f3",
+"assets/fonts/YekanBakh-Regular.ttf": "0c5382b544b01c1f7366adf30af5e2ef",
+"assets/NOTICES": "05dfd5d7c00935e5d0373eed955125ec",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/shaders/stretch_effect.frag": "40d68efbbf360632f614c731219e95f0",
@@ -33,7 +35,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "99299446f8afc5b3c3a3bbf01c107fe3
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "f6afa131b254da871fd06fbbcc066f51",
 "/": "f6afa131b254da871fd06fbbcc066f51",
-"main.dart.js": "812ccf82dae9fd8eb4f7e014025e8823",
+"main.dart.js": "fe5b4716f9cd6f9c4f8946048399af87",
 "manifest.json": "22650da2b182c0353f0238677b478a8a",
 "telegram-web-app.js": "70dbd7ade763706614c7ee99973dcc9c",
 "version.json": "20b39d34b01de1d6b9d4105d01e38cf1"};
