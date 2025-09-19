@@ -76956,7 +76956,7 @@ A.OE.prototype={
 N(a){var s=null
 return A.Kh(s,A.yU(!0,A.anF(A.c([A.as7(new A.ag0(a),A.fn("\u0646\u0645\u0648\u0646\u0647 \u0635\u062f\u0627 \u0647\u0627 (\u0628\u0631\u0627\u06cc \u062a\u0642\u0644\u06cc\u062f \u0635\u062f\u0627)",s,s,s,s,s,s)),A.as7(new A.ag1(a),A.fn("\u0627\u062d\u0631\u0627\u0632 \u0647\u0648\u06cc\u062a",s,s,s,s,s,s))],t.E),s),B.aG,!0))}}
 A.ag0.prototype={
-$0(){A.a0x(this.a).mb("/voice-changer-samples")},
+$0(){A.a0x(this.a).mb("/vcsamples")},
 $S:0}
 A.ag1.prototype={
 $0(){A.a0x(this.a).mb("/verify-identity")},
